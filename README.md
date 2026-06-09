@@ -1,0 +1,1 @@
+Um programa interativo de console simulando uma conta bancária, feito para praticar os conceitos de estruturas condicionais, laços de repetição e entrada de dados durante meus estudos iniciais da linguagem.
