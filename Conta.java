@@ -54,12 +54,11 @@ public class Conta {
                     break;
                 
                 default:
-                    System.err.println("Opção inválida. Tente novamente.");
+                    System.out.println("Opção inválida. Tente novamente.");
                     break;
 
             }
         }
         leitura.close();
-
     }
 }
